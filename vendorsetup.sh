@@ -13,6 +13,7 @@ add_lunch_combo xenonhd_i9100-userdebug
 add_lunch_combo xenonhd_i9100g-userdebug
 add_lunch_combo xenonhd_i9300-userdebug
 add_lunch_combo xenonhd_i9305-userdebug
+add_lunch_combo xenonhd_janice-userdebug
 add_lunch_combo xenonhd_jflte-userdebug
 add_lunch_combo xenonhd_l900-userdebug
 add_lunch_combo xenonhd_m7tmo-userdebug
